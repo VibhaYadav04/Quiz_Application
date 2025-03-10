@@ -2,6 +2,7 @@
 ## Screenshots
 ## 1. Start 
 ![1 Start](https://github.com/user-attachments/assets/52f5ca78-6ed7-4252-880c-6a36f03bb6d1)
+![1 1 Dropdown Menu](https://github.com/user-attachments/assets/3db3171a-8d03-40d6-9f20-ca16bdcb5bca)
 ## 2. Option Selection
 ![2  Option Selection](https://github.com/user-attachments/assets/c3d17f39-498a-4e2c-86c6-08e2e0fad45a)
 ## 3. Correct Answer
